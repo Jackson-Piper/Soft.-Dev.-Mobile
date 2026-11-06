@@ -1,6 +1,6 @@
 package myApp
 
-class routine (var score: Int = 0, var element: Int = 0, var canContinue: Boolean = true){
+class Routine (var score: Int = 0, var element: Int = 0, var canContinue: Boolean = true){
 
 
     fun buttonPressed(button: String?) {

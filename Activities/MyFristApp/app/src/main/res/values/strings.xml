@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFristApp</string>
+    <string name="title">Level 4</string>
+    <string name="artist">KJ</string>
+    <string name="source">my device</string>
+</resources>
