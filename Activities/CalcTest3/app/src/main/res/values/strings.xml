@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalcTest</string>
+    <string name="equals">Equals</string>
+    <string name="plus">plus</string>
+    <string name="mult">multiply</string>
+    <string name="hintNumber">0–9</string>
+</resources>
